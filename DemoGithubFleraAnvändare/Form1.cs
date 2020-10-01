@@ -20,7 +20,9 @@ namespace DemoGithubFleraAnvändare
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Satan va struligt detta är");
-            
+
+            MessageBox.Show("det tar längre än jag trodde att komma igång");
+
         }
     }
 }
