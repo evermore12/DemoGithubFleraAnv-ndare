@@ -23,7 +23,7 @@ namespace DemoGithubFleraAnvändare
             MessageBox.Show("det tar längre än jag trodde att komma igång");
             MessageBox.Show("Testar");
             MessageBox.Show("Jonathans andra commit, spännande testar min andra commit också!");
-
+            MessageBox.Show("test 3");
         }
     }
 }
