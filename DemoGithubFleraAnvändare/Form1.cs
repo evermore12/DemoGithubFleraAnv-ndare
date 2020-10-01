@@ -24,6 +24,8 @@ namespace DemoGithubFleraAnvändare
             MessageBox.Show("Testar");
             MessageBox.Show("Jonathans andra commit, spännande testar min andra commit också!");
             MessageBox.Show("test 3");
+            MessageBox.Show("Det här var galet");
+
         }
     }
 }
