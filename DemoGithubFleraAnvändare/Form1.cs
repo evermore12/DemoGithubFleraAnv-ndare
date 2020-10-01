@@ -21,6 +21,7 @@ namespace DemoGithubFleraAnvändare
         {
             MessageBox.Show("Satan va struligt detta är");
             MessageBox.Show("det tar längre än jag trodde att komma igång");
+            MessageBox.Show("Testar");
         }
     }
 }
